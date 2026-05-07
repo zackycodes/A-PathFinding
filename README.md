@@ -1,5 +1,5 @@
 # A* Pathfinding Maze Visualizer
-A Python-based GUI application that generates a solvable random maze and visualizes a "snake" navigating from start to finish using the A Search Algorithm*.
+A Python-based GUI application that generates a solvable random maze and visualizes a snake navigating from start to finish using the A Search Algorithm*.
 
 ## 🚀 Features
 * __Procedural Maze Generation__: Creates a new grid on every run with random obstacles.
